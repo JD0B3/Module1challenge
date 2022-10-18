@@ -64,3 +64,7 @@ Roboadvisor, feed back to user, helping them get out of a position. Creating str
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+links
+https://www.nytimes.com/2020/07/08/technology/robinhood-risky-trading.html
+https://en.wikipedia.org/wiki/Robinhood_Markets#History
